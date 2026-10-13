@@ -1,4 +1,8 @@
-﻿/* Color Palette
+﻿/* Box model fix */
+html { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: inherit; }
+
+/* Color Palette
    Inspiration: https://icolorpalette.com/p/239004
    #0b132b - midnight / header
    #1c2541 - navy / footer
@@ -38,7 +42,7 @@ a { color: inherit; text-underline-offset: 5px; }
 a:hover { text-decoration-thickness: 3px; }
 a:focus-visible { outline: 3px solid currentColor; outline-offset: 5px; }
 li { margin-bottom: 8px; }
-header, section, footer { padding: 54px max(24px, calc((100% - 950px) / 2)); }
+header, section, footer { padding: 0; }
 .eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; }
 .detail { font-weight: 600; }
 
@@ -62,14 +66,12 @@ footer a { color: #5bc0be; }
 ------------------------------------ */
 .education { background: #5bc0be; }
 
-/* HW7: box model, content wrappers, and reusable float columns. */
-html { box-sizing: border-box; }
-*, *::before, *::after { box-sizing: inherit; }
-header, section, footer { padding: 0; }
+/* HW7: content wrappers and reusable float columns. */
+
 .content-wrap { max-width: 950px; margin: 0 auto; padding: 50px; overflow: hidden; }
 .column-narrow { width: 30%; float: left; padding-right: 3%; min-height: 175px; }
 .column-wide { width: 70%; float: left; min-height: 225px; }
-.profile-img { height: auto; border-radius: 50%; }
+
 header h1, header h2 { margin: 0; }
 header .intro { margin-top: 20px; }
 footer { text-align: center; }

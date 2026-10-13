@@ -1,6 +1,8 @@
-﻿# CIT 384 - HW7 Resume Site
+﻿# CIT 384 - HW7
 
-HW6 plus content wrappers, consistent spacing, a circular profile image, box sizing, float-based 30/70 columns, and a mobile layout.
+# COMP 484 - HW6 Resume Site
+
+External CSS, separate images folder, section colors, two Google Fonts, heading sizes, and selected font weights.
 
 ## GitHub Pages
 
@@ -14,7 +16,7 @@ Open index.html in a browser. No build step is needed. Google Fonts require inte
 
 ## Content
 
-Personal details and experience were supplied by Daniel Isayan: one year with ON DEMAND ELECTRICAL, 2.5 years in a busy coffee shop, a graduating CIT major, technical skills, English and Russian, and email/phone contact details. No school name or graduation date was supplied. The profile is an original initials graphic. For HW8, keep resume.pdf in sync with future content changes.
+Resume I made formyself based off the skills that I have that I believe is most intresting
 
 ## Design sources
 
@@ -23,9 +25,6 @@ Personal details and experience were supplied by Daniel Isayan: one year with ON
 - [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3): body weights 400, 600.
 - Profile and education SVGs are original local graphics.
 
-## Submit
+## LINK
 
-Submit this repository link in Canvas: [killerpigwolf/comp484-hw7](https://github.com/killerpigwolf/comp484-hw7).
-
-The live website is linked above. Changes pushed to main automatically trigger a GitHub Pages deployment.
-[GitHub Pages publishing instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+ [killerpigwolf/comp484-hw6](https://github.com/killerpigwolf/comp484-hw6).
