@@ -1,6 +1,6 @@
   HW7 Resume Site
 
-In this hw, you’ll continue working on your resume site. You can continue buliding on from HW6.
+In this hw, you’ll continue working on your resume site.
 
 1.	Update the index.html file
 			a.	Let's update our projects by adding in the content wrappers. To keep the text from spanning across the whole page, starting with the header. Add the first new <div class="content-wrap"> just after the header tag. We want to make sure we enclose all of the content, but stay within the sections. It should contain all elements that the header contains.   
