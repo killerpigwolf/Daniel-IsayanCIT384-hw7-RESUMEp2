@@ -2,7 +2,7 @@
 
 Made by Daniel Isayan
 
-[My website](https://killerpigwolf.github.io/comp484-hw7/)
+[My website](https://killerpigwolf.github.io/Daniel-IsayanCIT384-hw7-RESUMEp2/)
 
 ## Content
 
